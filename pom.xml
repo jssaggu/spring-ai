@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>helloai</artifactId>
+	<artifactId>spring-ai</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>helloai</name>
+	<name>spring-ai</name>
 	<description>Simple AI Application using bOpenAPI Service</description>
 	<properties>
 		<java.version>17</java.version>
